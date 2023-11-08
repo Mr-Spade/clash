@@ -7,9 +7,9 @@ import (
 	"net/netip"
 	"strconv"
 
-	"github.com/Dreamacro/clash/component/auth"
+	"github.com/Mr-Spade/clash/component/auth"
 
-	"github.com/Dreamacro/protobytes"
+	"github.com/Mr-Spade/protobytes"
 )
 
 const Version = 0x04

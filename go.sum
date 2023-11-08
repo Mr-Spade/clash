@@ -1,5 +1,5 @@
-github.com/Dreamacro/protobytes v0.0.0-20230617041236-6500a9f4f158 h1:JFnwKplz9hj8ubqYjm8HkgZS1Rvz9yW+u/XCNNTxr0k=
-github.com/Dreamacro/protobytes v0.0.0-20230617041236-6500a9f4f158/go.mod h1:QvmEZ/h6KXszPOr2wUFl7Zn3hfFNYdfbXwPVDTyZs6k=
+github.com/Mr-Spade/protobytes v0.0.0-20231108085417-95c544277d70 h1:7O9wqm/DI3oYjaqSgim1pLGeaRXGPalAB/S9ieonepc=
+github.com/Mr-Spade/protobytes v0.0.0-20231108085417-95c544277d70/go.mod h1:fvp45/IA8qNRxTl25RkRt+5PY7orNEwHYvCQqEPap2Q=
 github.com/ajg/form v1.5.1 h1:t9c7v8JUKu/XxOGBU0yjNpaMloxGEJhUkqFRq0ibGeU=
 github.com/ajg/form v1.5.1/go.mod h1:uL1WgH+h2mgNtvBq0339dVnzXdBETtL2LeUXaIv25UY=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
